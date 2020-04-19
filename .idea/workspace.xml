@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64ef59b4-5a9d-4ebb-9e55-3c9513a6b2ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1amKNI4qPn1FpESjeQuU5x0KOvA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64ef59b4-5a9d-4ebb-9e55-3c9513a6b2ba" name="Default Changelist" comment="" />
+      <created>1587335287360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587335287360</updated>
+      <workItem from="1587335294071" duration="1216000" />
+    </task>
+    <task id="LOCAL-00001" summary="добавили все файлы и изменили 03">
+      <created>1587335419866</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587335419866</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Удалил лишнее из 03">
+      <created>1587336288016</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587336288016</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="добавили все файлы и изменили 03" />
+    <MESSAGE value="Удалил лишнее из 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Удалил лишнее из 03" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="995" y="382" key="#Notifications" timestamp="1587335995467">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="995" y="382" key="#Notifications/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587335995467" />
+    <state x="735" y="103" width="749" height="847" key="CommitChangelistDialog2" timestamp="1587336287035">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="735" y="103" width="749" height="847" key="CommitChangelistDialog2/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587336287035" />
+    <state x="510" y="119" width="1200" height="800" key="DiffContextDialog" timestamp="1587335753857">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="510" y="119" width="1200" height="800" key="DiffContextDialog/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587335753857" />
+    <state x="889" y="261" key="FileChooserDialogImpl" timestamp="1587336050254">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="889" y="261" key="FileChooserDialogImpl/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587336050254" />
+    <state x="988" y="417" key="Github.ShareDialog" timestamp="1587336526400">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="988" y="417" key="Github.ShareDialog/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587336526400" />
+    <state x="611" y="164" key="SettingsEditor" timestamp="1587336120611">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="611" y="164" key="SettingsEditor/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587336120611" />
+  </component>
+</project>
