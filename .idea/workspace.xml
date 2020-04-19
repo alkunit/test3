@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64ef59b4-5a9d-4ebb-9e55-3c9513a6b2ba" name="Default Changelist" comment="" />
+    <list default="true" id="64ef59b4-5a9d-4ebb-9e55-3c9513a6b2ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +26,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../test2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
@@ -36,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587335287360</updated>
-      <workItem from="1587335294071" duration="1216000" />
+      <workItem from="1587335294071" duration="1816000" />
     </task>
     <task id="LOCAL-00001" summary="добавили все файлы и изменили 03">
       <created>1587335419866</created>
@@ -52,7 +60,28 @@
       <option name="project" value="LOCAL" />
       <updated>1587336288016</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Удалил лишнее из 03">
+      <created>1587336573148</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587336573148</updated>
+    </task>
+    <task id="LOCAL-00004" summary="03 доб SD">
+      <created>1587336720760</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587336720760</updated>
+    </task>
+    <task id="LOCAL-00005" summary="удалил D">
+      <created>1587336872146</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587336872146</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,32 +91,42 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="добавили все файлы и изменили 03" />
     <MESSAGE value="Удалил лишнее из 03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Удалил лишнее из 03" />
+    <MESSAGE value="03 доб SD" />
+    <MESSAGE value="удалил D" />
+    <option name="LAST_COMMIT_MESSAGE" value="удалил D" />
   </component>
   <component name="WindowStateProjectService">
     <state x="995" y="382" key="#Notifications" timestamp="1587335995467">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="995" y="382" key="#Notifications/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587335995467" />
-    <state x="735" y="103" width="749" height="847" key="CommitChangelistDialog2" timestamp="1587336287035">
+    <state x="564" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587336967098">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="735" y="103" width="749" height="847" key="CommitChangelistDialog2/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587336287035" />
+    <state x="564" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587336967098" />
+    <state x="735" y="103" width="749" height="847" key="CommitChangelistDialog2" timestamp="1587336870894">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="735" y="103" width="749" height="847" key="CommitChangelistDialog2/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587336870894" />
     <state x="510" y="119" width="1200" height="800" key="DiffContextDialog" timestamp="1587335753857">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="510" y="119" width="1200" height="800" key="DiffContextDialog/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587335753857" />
-    <state x="889" y="261" key="FileChooserDialogImpl" timestamp="1587336050254">
+    <state x="889" y="261" key="FileChooserDialogImpl" timestamp="1587337014887">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="889" y="261" key="FileChooserDialogImpl/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587336050254" />
-    <state x="988" y="417" key="Github.ShareDialog" timestamp="1587336526400">
+    <state x="889" y="261" key="FileChooserDialogImpl/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587337014887" />
+    <state x="988" y="417" key="Github.ShareDialog" timestamp="1587336818112">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="988" y="417" key="Github.ShareDialog/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587336526400" />
-    <state x="611" y="164" key="SettingsEditor" timestamp="1587336120611">
+    <state x="988" y="417" key="Github.ShareDialog/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587336818112" />
+    <state x="611" y="164" key="SettingsEditor" timestamp="1587337023577">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="611" y="164" key="SettingsEditor/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587336120611" />
+    <state x="611" y="164" key="SettingsEditor/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587337023577" />
+    <state x="919" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587336698737">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="919" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587336698737" />
   </component>
 </project>
