@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64ef59b4-5a9d-4ebb-9e55-3c9513a6b2ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_three_commits.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,10 +28,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,7 +52,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587335287360</updated>
-      <workItem from="1587335294071" duration="1816000" />
+      <workItem from="1587335294071" duration="1962000" />
+      <workItem from="1587337772403" duration="270000" />
     </task>
     <task id="LOCAL-00001" summary="добавили все файлы и изменили 03">
       <created>1587335419866</created>
@@ -81,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587336872146</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="удалил D">
+      <created>1587337171508</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587337171508</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,18 +120,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="564" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587336967098" />
-    <state x="735" y="103" width="749" height="847" key="CommitChangelistDialog2" timestamp="1587336870894">
+    <state x="735" y="103" width="749" height="847" key="CommitChangelistDialog2" timestamp="1587337162793">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="735" y="103" width="749" height="847" key="CommitChangelistDialog2/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587336870894" />
+    <state x="735" y="103" width="749" height="847" key="CommitChangelistDialog2/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587337162793" />
     <state x="510" y="119" width="1200" height="800" key="DiffContextDialog" timestamp="1587335753857">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="510" y="119" width="1200" height="800" key="DiffContextDialog/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587335753857" />
-    <state x="889" y="261" key="FileChooserDialogImpl" timestamp="1587337014887">
+    <state x="889" y="261" key="FileChooserDialogImpl" timestamp="1587337224872">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="889" y="261" key="FileChooserDialogImpl/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587337014887" />
+    <state x="889" y="261" key="FileChooserDialogImpl/1920.65.1280.1024/0.0.1920.1080@0.0.1920.1080" timestamp="1587337224872" />
     <state x="988" y="417" key="Github.ShareDialog" timestamp="1587336818112">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
